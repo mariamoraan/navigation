@@ -1,0 +1,13 @@
+.question{
+    padding: 16px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.sub-title{
+    padding: 8px 16px;
+    width: auto;
+    border: 1px solid salmon;
+    border-radius: 16px;
+    color: salmon;
+    font-size: 1rem;
+    text-transform: uppercase;
+}

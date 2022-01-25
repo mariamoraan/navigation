@@ -1,0 +1,16 @@
+.navigator{
+    width: 100%;
+}
+.navigator ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.navigator ul li {
+    margin: 0 8px;
+}
+.navigator ul li a{
+    text-decoration: none;
+    color: var(--black);
+}
